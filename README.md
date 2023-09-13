@@ -43,7 +43,7 @@ THEN I am taken to the corresponding section of the README
 
 Use for class for homework assignment
 
-[Video walk through on how this program works](assets/walkthrough.mp4)
+[Video walk through on how this program works](https://drive.google.com/file/d/1qxtudPmTuG4IVzmD5yiVzZ6aKqvGaDEY/view?usp=sharing)
 
 
 ## Credits
