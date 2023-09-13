@@ -43,7 +43,7 @@ THEN I am taken to the corresponding section of the README
 
 Use for class for homework assignment
 
-[What page was supposed to look like](assets/05-third-party-apis-homework-demo.gif)
+[Video walk through on how this program works](link for video)
 
 
 ## Credits
